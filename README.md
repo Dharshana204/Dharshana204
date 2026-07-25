@@ -12,7 +12,7 @@ Hi👋, I'm Dharshana Sundar an aspiring Full Stack Developer and UI/UX Designer
 
 🌱 I’m currently learning
 
- [![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,npm,react,postgres,py,postman&perline=8)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,npm,postgres,py,postman&perline=8)](https://skillicons.dev)
   
 💻 Current Projects
 - Simon Game
