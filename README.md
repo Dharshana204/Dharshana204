@@ -1,16 +1,42 @@
-## Hi there 👋
+![Header](https://capsule-render.vercel.app/api?type=soft&height=150&color=gradient&text=Dharshana%20Sundar&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20UI/UX%20Designer&descAlignY=73&fontAlignY=35&fontSize=39)
 
-<!--
-**Dharshana204/Dharshana204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi👋, I'm Dharshana Sundar an aspiring Full Stack Developer and UI/UX Designer from India.
 
-Here are some ideas to get you started:
+🎯 My goal is to build responsive, user-friendly, and scalable web applications while continuously improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I'm currently working through Full Stack Web Development and building projects to strengthen my development skills.
+
+✔ My skills
+
+ [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,github,vscode,figma&perline=8)](https://skillicons.dev)
+
+🌱 I’m currently learning
+
+ [![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,npm,react,postgres,py,postman&perline=8)](https://skillicons.dev)
+  
+💻 Current Projects
+- Simon Game
+- Drum Kit
+- Personal Portfolio
+
+✨ Interests:
+- Full Stack Development
+- UI/UX Design
+- Frontend Engineering
+- Learning new technologies
+
+📫 How to reach me: 
+
+<p align="left">
+  <a href="https://github.com/Dharshana204" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/dharshana-sundhar-8a00b6382/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/>
+  </a>
+
+  <a href="mailto:dharshanasundhar2018@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="40"/>
+  </a>
+</p>
