@@ -19,6 +19,8 @@ Hi👋, I'm Dharshana Sundar an aspiring Full Stack Developer and UI/UX Designer
 - Drum Kit
 - Personal Portfolio
 
+Do checkout my projects, I hope you'll have fun going through them 😉
+
 ✨ Interests:
 - Full Stack Development
 - UI/UX Design
